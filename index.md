@@ -1,3 +1,11 @@
+# Welcome
+## to the Upcoming of the next Generation
+
+My name is Malte and im a brand new and upcoming software engineer.
+
+
+--------------------------------------------------------
+Old stuff, for inspiration
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/MalteZea/ZealandSite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
